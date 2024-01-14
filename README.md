@@ -1,11 +1,11 @@
 <h1>SIEM Home Lab Project</h1>
 
-<h2>Description</h2>
+<h2>Description: </h2>
 This is a security investigation and event management (SIEM) lab created at home utilizing Kali Linux and Elastic. The core objective of this project is to gain hands-on experience with the configuration, management, and effective utilization of a SIEM lab. 
 <br />
 
 
-<h2>Tools</h2>
+<h2>Tools: </h2>
 
 - <b>Kali Linux</b> 
 - <b>Oracle Virtualbox</b>
