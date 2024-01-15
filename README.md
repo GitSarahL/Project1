@@ -12,7 +12,7 @@ This is a security investigation and event management (SIEM) lab created at home
 - <b>Elastic</b>
 
 
-<h2>Project Highlights:</h2>
+<h2>Project Preview:</h2>
 
 <p align="center">
 Run a variety of Nmap scans to simulate security events: <br/>
